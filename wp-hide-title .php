@@ -2,7 +2,7 @@
 /*
 Plugin Name: WP Hide Title
 Plugin URI: https://wpwrites.com
-Description: Yet Another Plugin that Allows users to Hide post/ page title.
+Description: Yet Another Plugin that Allows users to Hide Post/ Page Title.
 Version: 0.0.1
 Author: Riyad Arefin
 Author URI: http://riyadarefin.com

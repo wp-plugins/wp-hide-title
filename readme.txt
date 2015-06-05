@@ -8,7 +8,8 @@ Stable tag: 0.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Yet Another Plugin that Allows users to Hide post/ page title.
+Yet Another Plugin that Allows users to Hide Post/ Page Title.
+
 
 == Description ==
 This plugin adds a simple checkbox on page or post creating page. 
